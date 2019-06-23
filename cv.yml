@@ -1,19 +1,2 @@
-name: "Anton Kozlov"
-
-contacts:
-  email: "diamonddiver99@gmail.com"
-
-social:
-  vk: "https://vk.com/musanton"
-  github: "kozant"
-
-languages:
-  - name: C++
-  - name: PHP
-  - name: JavaScript
-  - name: HTML/CSS (Web Standards)
-
-education:
-  - title: Mathematics and IT(Web development)
-    when: 2016-2020
-    institution: BSU
+secret_code: "W5XVXTs"
+github: "kozant"
