@@ -1,12 +1,12 @@
 secret_code: "W5XVXTs"
 github: "kozant"
-goal: "learn ruby and become ruby developer in future",
-programming_languages: "C++,PHP,Javascript,HTML/CSS",
-have_a_job: "false",
-laptop: "Windows",
-english: "Intermediate",
-education: "2020, Web development, BSU",
-phone_number: "375298312018",
-hours_per_day: "5",
-age: "19",
+goal: "learn ruby and become ruby developer in future"
+programming_languages: "C++,PHP,Javascript,HTML/CSS"
+have_a_job: "false"
+laptop: "Windows"
+english: "Intermediate"
+education: "2020, Web development, BSU"
+phone_number: "375298312018"
+hours_per_day: "5"
+age: "19"
 full_name: "Anton_Kozlov"
